@@ -1,3 +1,7 @@
+"""
+author: Sparks_Shen
+2025/4/1
+"""
 class Matrix:
     def __init__(self, length, width, snake, food):
         self.length = length
