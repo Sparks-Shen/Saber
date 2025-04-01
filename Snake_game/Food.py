@@ -1,3 +1,7 @@
+"""
+author: Sparks_Shen
+2025/3/31
+"""
 import random
 
 class Food:
@@ -17,4 +21,5 @@ class Food:
             food_pos = [x, y]
             if food_pos not in body:
                 self.pos = food_pos
-                break      
+                break  
+                
