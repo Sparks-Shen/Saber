@@ -1,6 +1,6 @@
 """
 author: Sparks_Shen
-2025/03/31
+2025/4/1
 """
 class Snake:
     def __init__(self, body, direction, score):
